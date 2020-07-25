@@ -1,4 +1,8 @@
-### Hi there 👋
+## 👋 Hi there! I'm Fajar
+I'm a civil engineering student who love coding and programming.
+
+### :star: My favorite repos
+check out my favorite repositories below :point_down:
 
 <!--
 **fajarafriansh/fajarafriansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
