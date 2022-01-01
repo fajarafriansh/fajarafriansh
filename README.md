@@ -3,7 +3,12 @@ I'm a civil engineering student who love coding and programming.
 
 ---
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=fajarafriansh&show_icons=true)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarafriansh&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fajarafriansh&show_icons=true&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight" alt="My github stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarafriansh&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fajarafriansh&theme=buefy-dark&hide_border=true&background=1a1b27"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fajarafriansh&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
+</>
 
 ---
 
